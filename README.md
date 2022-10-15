@@ -41,3 +41,7 @@ Proyecto de ejemplo para trabajar Blazor WASM en Lenguaje de Programación 3
 Una vez instales GIT, podras utilizar el siguiente comando para obtener el codigo fuente:
 <br/>
 git clone https://github.com/srbenzanRD/BlazorLP3.git
+
+# Otras informaciones:
+<strong>Open Iconic Page reference</strong> <br/>
+https://icon-sets.iconify.design/oi/
