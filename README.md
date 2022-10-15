@@ -24,11 +24,18 @@ Proyecto de ejemplo para trabajar Blazor WASM en Lenguaje de Programación 3
 </table>
 
 # Extenciones de Visual Studio Code 
-<strong>C#</strong>                                       ->  https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp <br/>
-<strong>Razor / Blazor CSS IntelliSense</strong>          ->  https://marketplace.visualstudio.com/items?itemName=kevin-chatham.aspnetcorerazor-html-css-class-completion <br/>
-<strong>Microsoft.AspNetCore.Razor.VSCode</strong>                 ->  https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion <br/>
-<strong>Material Icon Theme</strong>                      ->  https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme <br/>
-
+<table>
+    <thead>
+        <th>Extensión</th>
+        <th>Enlace</th>
+    </thead>
+    <tbody>
+        <tr><td><strong>C#</strong></td> <td>https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp</td></tr>
+        <tr><td><strong>Razor / Blazor CSS IntelliSense</strong></td> <td>https://marketplace.visualstudio.com/items?itemName=kevin-chatham.aspnetcorerazor-html-css-class-completion</td></tr>        
+        <tr><td><strong>Microsoft.AspNetCore.Razor.VSCode</strong></td><td>https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.blazorwasm-companion</td></tr>
+        <tr><td><strong>Material Icon Theme</strong></td><td>https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme</td></tr>
+    </tbody>
+</table>
 
 # Clonar Repositorio
 Una vez instales GIT, podras utilizar el siguiente comando para obtener el codigo fuente:
