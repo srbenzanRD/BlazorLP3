@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ventas_2000_0000\\ventas_2000_0000.csproj": {}
+    "C:\\BlazorWASM_LP3\\BlazorLP3\\ventas_2000_0000.csproj": {}
   },
   "projects": {
-    "C:\\ventas_2000_0000\\ventas_2000_0000.csproj": {
+    "C:\\BlazorWASM_LP3\\BlazorLP3\\ventas_2000_0000.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ventas_2000_0000\\ventas_2000_0000.csproj",
+        "projectUniqueName": "C:\\BlazorWASM_LP3\\BlazorLP3\\ventas_2000_0000.csproj",
         "projectName": "ventas_2000_0000",
-        "projectPath": "C:\\ventas_2000_0000\\ventas_2000_0000.csproj",
+        "projectPath": "C:\\BlazorWASM_LP3\\BlazorLP3\\ventas_2000_0000.csproj",
         "packagesPath": "C:\\Users\\Felix Benzan\\.nuget\\packages\\",
-        "outputPath": "C:\\ventas_2000_0000\\obj\\",
+        "outputPath": "C:\\BlazorWASM_LP3\\BlazorLP3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

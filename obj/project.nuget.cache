@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7mNYxVOqWSe6k5R8LsjMmx8MKFfwU6F0aX3TQ2T5LED+uPG1RyJInmQ2QBO2Q6Nv1KY0VcCO+hVtJqQMaSa6rg==",
+  "dgSpecHash": "4rrB1kU9x08oWgOpt5YZCa+/kAkkhBnlAzlw11LsPpN28sjo28sY1+tlTxOBZh4eG36/eRkMD9DF+M2Nn3XhrQ==",
   "success": true,
-  "projectFilePath": "C:\\ventas_2000_0000\\ventas_2000_0000.csproj",
+  "projectFilePath": "C:\\BlazorWASM_LP3\\BlazorLP3\\ventas_2000_0000.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felix Benzan\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.9\\microsoft.aspnetcore.authorization.6.0.9.nupkg.sha512",
     "C:\\Users\\Felix Benzan\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.9\\microsoft.aspnetcore.components.6.0.9.nupkg.sha512",

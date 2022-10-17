@@ -11,45 +11,45 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = ventas_2000_0000
 build_property.RootNamespace = ventas_2000_0000
-build_property.ProjectDir = c:\BlazorWASM_LP3\BlazorLP3\
+build_property.ProjectDir = C:\BlazorWASM_LP3\BlazorLP3\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\BlazorWASM_LP3\BlazorLP3
+build_property.MSBuildProjectDirectory = C:\BlazorWASM_LP3\BlazorLP3
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/BlazorWASM_LP3/BlazorLP3/App.razor]
+[C:/BlazorWASM_LP3/BlazorLP3/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/BlazorWASM_LP3/BlazorLP3/Pages/Counter.razor]
+[C:/BlazorWASM_LP3/BlazorLP3/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/BlazorWASM_LP3/BlazorLP3/Pages/FetchData.razor]
+[C:/BlazorWASM_LP3/BlazorLP3/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/BlazorWASM_LP3/BlazorLP3/Pages/Index.razor]
+[C:/BlazorWASM_LP3/BlazorLP3/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/BlazorWASM_LP3/BlazorLP3/Pages/ProductosView.razor]
+[C:/BlazorWASM_LP3/BlazorLP3/Pages/ProductosView.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdG9zVmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/BlazorWASM_LP3/BlazorLP3/Shared/SurveyPrompt.razor]
+[C:/BlazorWASM_LP3/BlazorLP3/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/BlazorWASM_LP3/BlazorLP3/_Imports.razor]
+[C:/BlazorWASM_LP3/BlazorLP3/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/BlazorWASM_LP3/BlazorLP3/Shared/MainLayout.razor]
+[C:/BlazorWASM_LP3/BlazorLP3/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-taazi03c53
 
-[c:/BlazorWASM_LP3/BlazorLP3/Shared/NavMenu.razor]
+[C:/BlazorWASM_LP3/BlazorLP3/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-u8dyodptxx
