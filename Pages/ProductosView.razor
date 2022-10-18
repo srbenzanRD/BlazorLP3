@@ -88,7 +88,8 @@ Precio = 300
         {
             if (ProductoSeleccionado.productoID == 0)
             {
-                ProductoSeleccionado.productoID = (Productos!.Max(p => p.productoID) + 1);
+                ProductoSeleccionado.productoID = 
+                Productos.Count>0? (Productos!.Max(p => p.productoID) + 1) : 1;
                 Productos!.Add(ProductoSeleccionado);
                 ProductoSeleccionado = new Producto();
                 return;
